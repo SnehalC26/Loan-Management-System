@@ -3,7 +3,7 @@
 **Loan Management System** is a full-stack loan application management platform that allows users to apply for loans, upload documents, track application status, view sanction letters, and more. This repository contains the **Angular frontend**.
 
 > 🔗 **Backend Repo**: [Home_loan_Finance Backend](https://github.com/spuffyffets/Home_loan_Finance.git)  
-> 🔗 **Frontend Repo**: [Loan Management System Frontend](https://github.com/spuffyffets/loan-management-system.git)
+> 🔗 **Frontend Repo**: [Loan Management System Frontend](https://github.com/SnehalC26/Home-Loan-Finance.git)
 
 ---
 
